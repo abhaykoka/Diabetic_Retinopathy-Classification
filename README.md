@@ -13,3 +13,4 @@ There are Basicall five classes that are involved :NO_DR,Proliferate,Mild,Modera
 In our We leverage the use of CNN's and vision transformers to classify an image into 5 classes and as there are only very few images available of the minor class we have used Data Augmentation to generate, Augmented images of minority classes and made the No' of images equeal in all the classes.
 We have employedK-fold Cross-validation method with 75 epochs each for 5 folds.
 We have used light weight customised versions of multiple popular CNN architectures.
+Dataset:https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered
